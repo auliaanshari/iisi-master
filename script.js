@@ -17,7 +17,7 @@ var marker_1 = []; //MARKER UNTUK POSISI SAAT INIvar marker_2 = []; //MARKER UNT
 var marker_2 = [];
 var awal = 0;
 var tujuan = 0;
-var server = "https://localhost/tbiisi-master/";
+var server = "https://104.215.189.77/tbiisi-master/";
 
 var cekRadiusStatus = "off";
 function init(){
